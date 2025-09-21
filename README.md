@@ -43,3 +43,10 @@
 4、记录开门时间点：用户开门后，记录当前时间，并存储起来（基础功能4+7+8+9）；
 
 5、显示开关门次数及状态：将开关状态、次数显示在OLED屏幕上（基础功能4+11）
+
+三、原理图
+<img width="1193" height="837" alt="原理图0921" src="https://github.com/user-attachments/assets/64ae88e6-b4de-4407-b6a7-475ade366ac2" />
+
+四、实物图
+![实物图0921](https://github.com/user-attachments/assets/126d4bc7-8a64-4138-aedf-fefc36aec54a)
+
