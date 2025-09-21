@@ -48,5 +48,5 @@
 <img width="1193" height="837" alt="原理图0921" src="https://github.com/user-attachments/assets/64ae88e6-b4de-4407-b6a7-475ade366ac2" />
 
 四、实物图
-![实物图0921](https://github.com/user-attachments/assets/126d4bc7-8a64-4138-aedf-fefc36aec54a)
+![实物图0921](https://github.com/user-attachments/assets/40de62c7-8385-4e3d-bc00-98a9e93b55e0)
 
